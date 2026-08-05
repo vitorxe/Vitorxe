@@ -2,12 +2,6 @@
 
 ![Denodo Certified](https://img.shields.io/badge/Denodo_9-Certified_Architect_%26_Developer-blue?style=for-the-badge&logo=denodo)
 
- <div>
-   <a href="https://github.com/vitorxe">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorxe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorxe&layout=compact&langs_count=6&theme=tokyonight"/>
-
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://w7.pngwing.com/pngs/447/294/png-transparent-python-javascript-logo-clojure-python-logo-blue-angle-text.png">
   <img align="center" alt="CSS" height="30" width="40" src="https://hub.asimov.academy/wp-content/uploads/2024/09/Streamlit-logo-1024x599.png">
