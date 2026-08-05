@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao perfil do Vitor 
 
+![Denodo Certified](https://img.shields.io/badge/Denodo_9-Certified_Architect_%26_Developer-blue?style=for-the-badge&logo=denodo)
+
  <div>
    <a href="https://github.com/vitorxe">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorxe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
