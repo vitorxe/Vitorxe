@@ -8,8 +8,11 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://w7.pngwing.com/pngs/447/294/png-transparent-python-javascript-logo-clojure-python-logo-blue-angle-text.png">
+  <img align="center" alt="CSS" height="30" width="40" src="https://hub.asimov.academy/wp-content/uploads/2024/09/Streamlit-logo-1024x599.png">
+  <img align="center" alt="HTML" height="30" width="40" src="https://explore-feed.github.com/topics/jupyter-notebook/jupyter-notebook.png">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
 </div>
  
  <br>
