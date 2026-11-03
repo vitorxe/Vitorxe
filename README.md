@@ -39,7 +39,7 @@ Welcome to my profile! Here, I share projects I've built and continuously refine
 ---
 
 ### 📜 Certifications & Credentials
-- 🔹 **Denodo Platform 9 Certified Administrator Associate | Professiona**
+- 🔹 **Denodo Platform 9 Certified Administrator Associate | Professional**
 - 🔹 **Denodo Platform 9 Certified Architect Associate**
 - 🔹 **Denodo Platform 9 Certified Developer Associate**
 - 🔹 **Google Cloud Arcade Program** *(Cloud Computing Practices)*
